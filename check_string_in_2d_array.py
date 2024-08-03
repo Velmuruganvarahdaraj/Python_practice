@@ -8,7 +8,7 @@ array = [
     ['aswin', 'monish', 'nihal'],
     ['nafees', 'hari', 'thejesh']
 ]
-target_string = 'vel'
+target_string = input("enter the string to search :")
 if find_string_in_2d_array(array, target_string):
     print(f"'{target_string}' was found ")
 else:
