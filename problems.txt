@@ -1,0 +1,9 @@
+1,2,12,36,80,150.
+chocolate distribution problem.
+newman convence equation problem.
+find the factors of list and print in a new list
+print the all  subarray's in a array
+to check the string  password without inbuild fun 
+reverse "I'm a CSE Student"
+string pattern 
+character count
